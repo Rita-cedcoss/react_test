@@ -1,7 +1,7 @@
 #outer
 {
     height: 100px;
-    width: 500px;
+    width: 100%;
     font-size: 20px;
     display: flex;
     justify-content: center;
